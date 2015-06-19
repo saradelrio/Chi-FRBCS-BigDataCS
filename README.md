@@ -9,4 +9,4 @@ Figure 1: A flowchart of how the building of the KB is organized in Chi-FRBCS-Bi
 
 # References
 
-V. López, S. Río, J.M. Benítez, F. Herrera. Cost-Sensitive Linguistic Fuzzy Rule Based Classification Systems under the MapReduce Framework for Imbalanced Big Data. Fuzzy Sets and Systems 258 (2015) 5-38. http://doi: 10.1016/j.fss.2014.01.015 [link to pdf file](http://sci2s.ugr.es/sites/default/files/ficherosPublicaciones/1734_2015-lopez-FSS.pdf)
+V. López, S. Río, J.M. Benítez, F. Herrera. Cost-Sensitive Linguistic Fuzzy Rule Based Classification Systems under the MapReduce Framework for Imbalanced Big Data. Fuzzy Sets and Systems 258 (2015) 5-38. doi: 10.1016/j.fss.2014.01.015 [link to pdf file](http://sci2s.ugr.es/sites/default/files/ficherosPublicaciones/1734_2015-lopez-FSS.pdf)
